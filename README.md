@@ -26,7 +26,7 @@ Payment Method - Mode of payment (Credit Card, Debit Card, PayPal, etc.).
 
 Status - Order status (Completed, Pending, or Cancelled).
 
---
+### Project
 
 - Project Amazon Sales 2025
   - Description: This project involves querying and analyzing Amazon order data. The goal is to understand trends in payment cancellation rates.
