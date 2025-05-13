@@ -21,7 +21,7 @@ Columns Description:
 
 ### Project
 
-- Project Amazon Sales 2025
+- **Project Amazon Sales 2025**
   - **Description**: This project involves querying and analyzing Amazon order data. The goal is to understand trends in payment cancellation rates.
   - **SQL Skills Used**: Window Functions, Aggregations, Group By, Joins, Subquery
   - **Tools Used**: SQL(PostgreSQL)
